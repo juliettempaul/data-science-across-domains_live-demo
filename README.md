@@ -2,7 +2,7 @@
 
 ## Data Science Across the Domains
 
-### Two Kinds of Datasets, One Method — Live Demos
+### Two Kinds of Datasets, One Method — Live Demo
 
 Two small, self-contained CNN teaching demos, both runnable live in-browser via
 [Binder](https://mybinder.org).
