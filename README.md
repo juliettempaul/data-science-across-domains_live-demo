@@ -5,8 +5,7 @@
 ### Two Kinds of Datasets, One Method — Live Demos
 
 Two small, self-contained CNN teaching demos, both runnable live in-browser via
-[Binder](https://mybinder.org) — no Google account, no install. Each launches in a few minutes on
-Binder's free CPU-only environment.
+[Binder](https://mybinder.org).
 
 ### Smile classification
 
